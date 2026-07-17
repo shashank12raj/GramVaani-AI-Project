@@ -5,8 +5,9 @@ An advanced, conversational AI assistant designed to streamline communication an
 ---
 
 ## Live Links
-* "Live Interactive Demo:" [https://flowise-ai-production-e53f.up.railway.app/chatbot/c0aa046d-da78-46c6-a571-620702ba285c]
-* "Orchestration Server:" Hosted live on Railway
+* "Click Here for Live Demo:" [https://cloud.flowiseai.com/chatbot/89920d49-5023-4fe3-86cb-9d7f6e6cc593] 
+* "Live Deployment:" [https://flowise-ai-production-e53f.up.railway.app/chatbot/c0aa046d-da78-46c6-a571-620702ba285c] -The free valid period is of 30 days only, it will not work after 16th july 2026.
+* "Orchestration Server:" Hosted live on Railway "30 days free period"
 
 ---
 
